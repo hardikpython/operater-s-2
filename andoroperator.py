@@ -12,3 +12,4 @@ else:
   print("either of the number is greater than 0")
  else:
   print("no number is greater than 0")
+  if (type your amount) 
